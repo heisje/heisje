@@ -1,6 +1,6 @@
 ### HeeJe Kim
 
-[![Resume](https://heisje.site/about)](https://heisje.site/about)
+[![Resume](https://img.shields.io/static/v1?style=for-the-badge&logoColor=ffffff&color=000000&logo=notion&label=&message=Resume)](https://heisje.site/about)
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logoColor=ffffff&color=0077b5&logo=linkedin&label=&message=LinkedIn)](https://www.linkedin.com/in/heeje-kim-715488286/)
 [![Blog](https://img.shields.io/static/v1?style=for-the-badge&logoColor=ffffff&color=663399&logo=gatsby&label=&message=Blog)](https://velog.io/@heisje)
 
